@@ -1,10 +1,4 @@
-
 {
-  "breaks": {
-    "1": "https://raw.githubusercontent.com/loopfall/breaks/main/breakloop1.wav",
-    "2": "https://raw.githubusercontent.com/loopfall/breaks/main/breakloop2.wav",
-    "3": "https://raw.githubusercontent.com/loopfall/breaks/main/breakloop3.wav",
-    "4": "https://raw.githubusercontent.com/loopfall/breaks/main/breakloop4.wav",
-    "5": "https://raw.githubusercontent.com/loopfall/breaks/main/breakloop5.wav"
-  }
+  "_base": "https://raw.githubusercontent.com/loopfall/breaks/main/",
+  "breaks": ["breakloop1.wav","breakloop2.wav","breakloop3.wav","breakloop4.wav","breakloop5.wav"]
 }
