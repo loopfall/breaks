@@ -1,6 +1,6 @@
 # breaks
 
-5 x 8-bar break loops crafted from chopped, layered, and processed legacy drum breaks.
+5 x 8-bar 175bpm break loops crafted from chopped, layered, and processed legacy drum breaks.
 Usage
 Perfect for live coding environments like Strudel and TidalCycles, music production, or creative experimentation.
 
